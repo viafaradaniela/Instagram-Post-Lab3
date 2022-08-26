@@ -1,0 +1,39 @@
+.HeadText{
+    position: relative;
+    left: 65px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+}
+.pp{
+    position: relative;
+    top: 55px;
+}
+.options{
+    position:relative;
+    left: 250px;
+    top: 45px;
+}
+.save{
+    position: relative;
+    left: 231px;
+}
+.lowText{
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+}
+.otherText{
+    color: darkgrey;
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+}
+.rectangulo{
+    width: 380px;
+    height: 760px;
+}
+.rectangulo:nth-child(1){
+    position: relative;
+    right: 20px;
+    bottom: 750px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+
