@@ -20,7 +20,7 @@ class MyPost extends HTMLElement{
     render(){
         this.shadowRoot.innerHTML=`
     
-    <link rel="stylesheet" href="./src/components/postinstagram/style.css"
+    <link rel="stylesheet" href="./src/components/postinstagram/style.css">
     
     <img src="img/ringstorys.png"> 
     <img src= ${this.pp} height="55" class="pp"> 
