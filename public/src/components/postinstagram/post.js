@@ -22,7 +22,6 @@ class MyPost extends HTMLElement{
     
     <link rel="stylesheet" href="./src/components/postinstagram/style.css">
     
-    <img src="img/ringstorys.png"> 
     <img src= ${this.pp} height="55" class="pp"> 
     <img src="img/options.png" height="5" class="options"> 
 
